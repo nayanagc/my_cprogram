@@ -5,6 +5,6 @@ void main(){
   char *name;
   name=malloc(15);
   name=realloc(name,100);
-  strcpy(name,"varshinimegha");
+  strcpy(name,"nayanamonisha");
   printf("%s\n",name);
   free(name);}
